@@ -546,7 +546,7 @@
   .content {
   padding-left: 10px;
   padding-right: 10px;
-  }
+  } 
   .hidden-small {
   display: none;
   }
